@@ -1,0 +1,26 @@
+Antonio de Oliveira Dias20:06
+download https://git-scm.com/download/win 
+
+
+A empresa X quer fazer viagens com um carro voador
+	que transporta pessoas, com limite de preço de até
+	10 dolares por viagem, por pessoa. 
+	Elabore um sistema para esta operacao.
+
+criar 5 arquivos um para cada fase de desenvolvimento do software
+
+analise.txt - o que o sistema tem que fazer
+
+exemplo O sistema deve fazer autenticacao de usuario.
+O sistema deve alocar o carro voador mais proximo do usuario.
+O sistema deve possibilitar a solicitacao de uma viagem por aplicativo.
+
+
+arquitetura.txt - como o sistema vai ser feito, exemplo vai aplicacao mobile, sistema  o ambos)
+
+codificacao.txt - quais linguagens de programacao sera feito o sistema e por que
+
+
+teste.txt - como serao os testes do sistema
+
+operacao.txt como vou implantar o software e monitorar a operacao do software
